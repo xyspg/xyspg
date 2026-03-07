@@ -25,5 +25,5 @@ Hi 👋 xyspg (aka. xiyanspigeon, 希言的鸽子) is an undergraduate at **New 
 **Environment**
 <p>
   <img alt="macOS" src="https://img.shields.io/badge/macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="webstorm" src="https://img.shields.io/badge/WebStorm-blue?style=flat-square&logo=webstorm&logoColor=ffffff" />
+<img alt="zed" src="https://img.shields.io/badge/Zed-222222?style=flat-square&logo=zedindustries&logoColor=ffffff" />
 </p>
