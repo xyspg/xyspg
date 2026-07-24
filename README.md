@@ -1,5 +1,5 @@
 ## xyspg 🧑‍💻 [![wakatime](https://wakatime.com/badge/user/12072bba-dbff-402a-b9ab-943a8d00a7f5.svg)](https://wakatime.com/@12072bba-dbff-402a-b9ab-943a8d00a7f5)
-Hi 👋 xyspg (aka. xiyanspigeon, 希言的鸽子) is an undergraduate at **New York University** studying **Computer Science** who is passionate about frontend programming.
+Hi 👋 xyspg is an undergraduate at **New York University** studying **Computer Science** who is passionate about frontend programming.
 
 **Tech Stacks**
 <p>
