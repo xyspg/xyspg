@@ -1,4 +1,5 @@
-## xyspg 🧑‍💻 [![wakatime](https://wakatime.com/badge/user/12072bba-dbff-402a-b9ab-943a8d00a7f5.svg)](https://wakatime.com/@12072bba-dbff-402a-b9ab-943a8d00a7f5)
+## xyspg <img alt="" src="https://xyspg.moe/api/github/readme?e=random" height="24" align="absmiddle" /> <a href="https://wakatime.com/@12072bba-dbff-402a-b9ab-943a8d00a7f5"><img alt="wakatime" src="https://wakatime.com/badge/user/12072bba-dbff-402a-b9ab-943a8d00a7f5.svg" align="absmiddle" /></a>
+
 Hi 👋 xyspg is an undergraduate at **New York University** studying **Computer Science** who is passionate about frontend programming.
 
 **Tech Stacks**
